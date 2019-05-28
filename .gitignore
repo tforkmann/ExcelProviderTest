@@ -1,0 +1,9 @@
+packages/
+paket-files/
+obj/
+src/obj/
+test/obj/
+.vs/*
+.paket/load/
+.fake/
+.ionide/
